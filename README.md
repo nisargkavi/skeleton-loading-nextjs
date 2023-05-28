@@ -2,8 +2,6 @@
 
 This repository contains a simple demo example of Skeleton Loading using Next.js (v13.4.4) with server component.
 
-&nbsp;
-
 [![LoadingPhoto](/public/skeleton-loading.png)](https://nk-skeleton-loading.vercel.app)
 
 &nbsp;
